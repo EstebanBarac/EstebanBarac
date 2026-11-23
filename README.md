@@ -24,12 +24,6 @@ I own the whole project: understand the problem, design the database, build fron
 
 **Core stack:** Next.js · React · TypeScript · Node.js · PostgreSQL · Supabase · LLMs / RAG · OCR · PWA / offline-first
 
-## Public code
-
-- [noxuspc](https://github.com/EstebanBarac/noxuspc) — e-commerce with a custom PC configurator and MercadoPago checkout
-- [esba_dive](https://github.com/EstebanBarac/esba_dive) — e-learning platform for scuba diving courses
-- [demo-inmobiliaria-esteban-barac](https://github.com/EstebanBarac/demo-inmobiliaria-esteban-barac) — real estate platform with filtered search and viewing scheduler
-
 ---
 
 Currently studying Artificial Intelligence Engineering (IBM) and a Higher Technical Degree in Programming (Teclab). Open to projects — [esteban-barac.dev/#contact](https://esteban-barac.dev/#contact).
